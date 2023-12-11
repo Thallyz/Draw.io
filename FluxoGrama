@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T00:49:46.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-VUajspioy2I4xpJLY48" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T00:56:44.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LDUF69E129o1Ikv9Maki" version="22.1.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2074" dy="2287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,8 +52,8 @@
         <mxCell id="jTblXSndWQMfqQlSpK4p-27" value="Contrato aprovado?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="jTblXSndWQMfqQlSpK4p-14">
           <mxGeometry x="76.25" y="150" width="97.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="jTblXSndWQMfqQlSpK4p-72" value="&lt;div&gt;Encaminhar para d&lt;span style=&quot;background-color: initial;&quot;&gt;epartamento financeiro&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jTblXSndWQMfqQlSpK4p-14">
-          <mxGeometry x="65" y="340" width="120" height="50" as="geometry" />
+        <mxCell id="jTblXSndWQMfqQlSpK4p-72" value="&lt;div&gt;Iniciar avaliação&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jTblXSndWQMfqQlSpK4p-14">
+          <mxGeometry x="65" y="350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jTblXSndWQMfqQlSpK4p-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="jTblXSndWQMfqQlSpK4p-14" source="jTblXSndWQMfqQlSpK4p-133" target="jTblXSndWQMfqQlSpK4p-150">
           <mxGeometry relative="1" as="geometry" />
@@ -116,6 +116,14 @@
         <mxCell id="jTblXSndWQMfqQlSpK4p-73" value="Notificar empresa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jTblXSndWQMfqQlSpK4p-18">
           <mxGeometry x="510" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jTblXSndWQMfqQlSpK4p-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="jTblXSndWQMfqQlSpK4p-18" source="jTblXSndWQMfqQlSpK4p-146" target="jTblXSndWQMfqQlSpK4p-164">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="914" y="208" />
+              <mxPoint x="914" y="149" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jTblXSndWQMfqQlSpK4p-146" value="Avaliar renovação" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jTblXSndWQMfqQlSpK4p-18">
           <mxGeometry x="747" y="177.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -157,15 +165,9 @@
         <mxCell id="jTblXSndWQMfqQlSpK4p-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jTblXSndWQMfqQlSpK4p-74" target="jTblXSndWQMfqQlSpK4p-146">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jTblXSndWQMfqQlSpK4p-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jTblXSndWQMfqQlSpK4p-146" target="jTblXSndWQMfqQlSpK4p-91">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jTblXSndWQMfqQlSpK4p-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jTblXSndWQMfqQlSpK4p-74" target="jTblXSndWQMfqQlSpK4p-164">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="755" y="160" />
-              <mxPoint x="934" y="160" />
-            </Array>
+        <mxCell id="jTblXSndWQMfqQlSpK4p-170" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jTblXSndWQMfqQlSpK4p-147">
+          <mxGeometry x="-0.8405" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jTblXSndWQMfqQlSpK4p-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jTblXSndWQMfqQlSpK4p-164" target="jTblXSndWQMfqQlSpK4p-91">
