@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T23:54:41.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="93Xuqf2D6v2nzfqIvDml" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T00:00:47.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6Gu7eAjL8P0B4kVcAlBe" version="22.1.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1600" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1954" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,7 @@
         <mxCell id="jTblXSndWQMfqQlSpK4p-83" value="Notificar empresa" style="rounded=0;whiteSpace=wrap;html=1;" parent="jTblXSndWQMfqQlSpK4p-14" vertex="1">
           <mxGeometry x="850" y="35" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jTblXSndWQMfqQlSpK4p-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="jTblXSndWQMfqQlSpK4p-14" source="jTblXSndWQMfqQlSpK4p-86" target="jTblXSndWQMfqQlSpK4p-80" edge="1">
+        <mxCell id="qtXAmkS9qjN5NgoyTsY3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jTblXSndWQMfqQlSpK4p-14" source="jTblXSndWQMfqQlSpK4p-86" target="jTblXSndWQMfqQlSpK4p-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jTblXSndWQMfqQlSpK4p-86" value="Empresa deseja seguir com a renovação?" style="rhombus;whiteSpace=wrap;html=1;" parent="jTblXSndWQMfqQlSpK4p-14" vertex="1">
