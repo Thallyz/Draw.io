@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T00:56:44.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LDUF69E129o1Ikv9Maki" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T01:00:16.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3NaG7z19LP4AJki9lda6" version="22.1.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2074" dy="2287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jTblXSndWQMfqQlSpK4p-74" value="Há necessidade &lt;br&gt;de renovação?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="jTblXSndWQMfqQlSpK4p-14">
-          <mxGeometry x="680" y="219" width="110" height="110" as="geometry" />
+          <mxGeometry x="680" y="240" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="jTblXSndWQMfqQlSpK4p-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jTblXSndWQMfqQlSpK4p-14" source="jTblXSndWQMfqQlSpK4p-150" target="jTblXSndWQMfqQlSpK4p-5">
           <mxGeometry relative="1" as="geometry" />
@@ -136,6 +136,11 @@
         <mxCell id="jTblXSndWQMfqQlSpK4p-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jTblXSndWQMfqQlSpK4p-99" source="jTblXSndWQMfqQlSpK4p-137" target="jTblXSndWQMfqQlSpK4p-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jTblXSndWQMfqQlSpK4p-172" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jTblXSndWQMfqQlSpK4p-144">
+          <mxGeometry x="-0.4235" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jTblXSndWQMfqQlSpK4p-137" value="Pagamento aprovado?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="jTblXSndWQMfqQlSpK4p-99">
           <mxGeometry x="200" y="82.5" width="90" height="85" as="geometry" />
         </mxCell>
@@ -172,6 +177,19 @@
         </mxCell>
         <mxCell id="jTblXSndWQMfqQlSpK4p-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jTblXSndWQMfqQlSpK4p-164" target="jTblXSndWQMfqQlSpK4p-91">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jTblXSndWQMfqQlSpK4p-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jTblXSndWQMfqQlSpK4p-137" target="jTblXSndWQMfqQlSpK4p-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="190" />
+              <mxPoint x="1085" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jTblXSndWQMfqQlSpK4p-175" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jTblXSndWQMfqQlSpK4p-173">
+          <mxGeometry x="-0.9292" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
